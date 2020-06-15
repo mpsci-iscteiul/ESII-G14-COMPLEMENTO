@@ -39,6 +39,12 @@ Parcialmente Implementado:
 PONTO 3 - Covid-sci-discoveries
 Tudo funcional.
 
+Ponto 4 - Carolina Campos 83573:
+- Funcionalidades: foram implementadas todas as funcionalidades pedidas no 
+ponto 4 do complemento do projeto, sendo que na última coluna, onde colocamos 
+o link referente à determinada tag, não contem uma hiperligação, sendo 
+necessário copiar e colar o link no browser;
+
 PONTO 6-Trabalho todo funcional. As diferenças estao evidenciadas dentro de chavetras ou parentises. Isto é, o conteudo dos ficheiros mantem -se intacto e as diferencas encontram - se dentro de chavetas para melhor identificacao das mesmas.
 
 INSTRUÇÕES:
