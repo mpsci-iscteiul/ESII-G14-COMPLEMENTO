@@ -39,7 +39,7 @@ Parcialmente Implementado:
 PONTO 3 - Covid-sci-discoveries
 Tudo funcional.
 
-Ponto 4 - Carolina Campos 83573:
+PONTO 4 - Carolina Campos 83573:
 - Funcionalidades: foram implementadas todas as funcionalidades pedidas no 
 ponto 4 do complemento do projeto, sendo que na última coluna, onde colocamos 
 o link referente à determinada tag, não contem uma hiperligação, sendo 
