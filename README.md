@@ -18,6 +18,10 @@ ELEMENTOS DO GRUPO:
 
 FUNCIONALIDADES:
 
+PONTO 1 (Matilde):
+-no plugin das estatísticas do website não aparecem gráficos na página Web Site Analysis no entanto estes gráficos são apresentados no Dashboard.
+-o plugin para adicionar ficheiros só aceita ficheiros do tipo pdf
+
 PONTO 1 (Laura): 
 Não consegui implementar o email porque, mesmo seguindo a página de instruções do plugin, não aceitava o domínio como domínio autorizado.
 Assim, a página do Contact Us funciona e tem o formulário que pode ser preenchido mas não recebemos email.
@@ -50,5 +54,11 @@ PONTO 6-Trabalho todo funcional. As diferenças estao evidenciadas dentro de cha
 INSTRUÇÕES:
 
 1-Ter o Docker instalado e a correr.
+
 2-Descomprimir a pasta Wordpress.
-3-
+
+3-No Docker introduzir o comando docker import NOMEDOFICHEIRO.tar NOMEDOCONTAINER:TAG
+
+4-De seguida, introduzir o comando docker run image:tag
+
+5-Aceder a 192.168.99.100 num browser.
