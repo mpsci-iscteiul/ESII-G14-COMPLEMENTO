@@ -18,6 +18,14 @@ ELEMENTOS DO GRUPO:
 
 FUNCIONALIDADES:
 
+PONTO 1 (Laura): 
+Não consegui implementar o email porque, mesmo seguindo a página de instruções do plugin, não aceitava o domínio como domínio autorizado.
+Assim, a página do Contact Us funciona e tem o formulário que pode ser preenchido mas não recebemos email.
+
+Covid Scientific Discoveries Repository: instalei um plugin (pdf embedder) que só consegue colocar no repoitório ficheiros pdf, não consegue instalar outro tipo de ficheiros. Não encontrei nenhum outro plugin que conseguisse fazer update e delete de ficheiros de todos os tipos.
+
+Web Site Analytics: Instalei o plugin wp statistics que mostra os gráficos feitos quando estou a editar ou a ver esse plugin, no entanto quando quero adicionar à página, não aparecem os gráficos, só os resultados.
+
 PONTO 2 -  Monitoring Tool for the WP-CMS
 
 Mal Implementado:
